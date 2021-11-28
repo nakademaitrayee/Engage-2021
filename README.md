@@ -21,7 +21,7 @@ The viewers will have to Clone the repositories and then locally host the applic
 
 This information is available in the technical document of the project. The technical document can be downloaded from this link - 
  
- TechincalDocument-https://docs.google.com/document/d/18Y28STttTJLOafJb82jaquWhJOYMZZVbXqCF3yltcRs/edit?usp=sharing
+ TechincalDocument-https://drive.google.com/file/d/1SHslZATaT86kOY1SoQvWdl8vpg9QmA9Q/view?usp=sharing
 
 
 Hope you Enjoy the Application!
