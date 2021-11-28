@@ -1,7 +1,7 @@
-#Microsoft-Engage-2021
+# Microsoft-Engage-2021
 This Application was made as a part of Microsoft Engage Mentorship Program 2021. The web Application named 'Class Activity' is made to increase the collaboration of student and faculty in classroom both - in person classes and in hybrid environment. This application helps the users to create, post and take surveys, which can be attempted by other users, and a Real Time Results Summary is updated as the users choose their options. It helps the faculty to gauge the response of live audience. This is a small attempt to increase the Engagement between students and Faculty :)
 
-#How to Access the Code?
+# How to Access the Code?
 The Code has been divided into two different components:
 
 Frontend part - Angular using Visual Studio Code 2019
